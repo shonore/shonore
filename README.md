@@ -40,7 +40,7 @@ Apart from my work, I have a keen interest in:
 
 I'm always open to connecting with fellow developers and professionals in the field. Feel free to reach out to me through the following channels:
 
-- Email: stephanie.honore@proton.me(mailto:stephanie.honore@proton.me)
+- Email: [stephanie.honore@proton.me](mailto:stephanie.honore@proton.me)
 - LinkedIn: [https://www.linkedin.com/in/smhonore/](https://www.linkedin.com/in/smhonore/)
 
 Don't hesitate to contact me if you have any questions, suggestions, or if you'd like to discuss software development, JavaScript, .NET, machine learning, or cybersecurity. I look forward to connecting with you!
