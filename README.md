@@ -44,7 +44,3 @@ I'm always open to connecting with fellow developers and professionals in the fi
 - LinkedIn: [https://www.linkedin.com/in/smhonore/](https://www.linkedin.com/in/smhonore/)
 
 Don't hesitate to contact me if you have any questions, suggestions, or if you'd like to discuss software development, JavaScript, .NET, machine learning, or cybersecurity. I look forward to connecting with you!
-
----
-
-Feel free to customize this README.md file further to reflect your specific experience, interests, and preferences. Good luck with your projects and professional endeavors!
